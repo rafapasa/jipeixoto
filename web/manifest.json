@@ -1,0 +1,10 @@
+{
+  "name": "Ji Peixoto — Liso Espelhado",
+  "short_name": "Ji Peixoto",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E2187A",
+  "description": "Site da marca Ji Peixoto, Liso Espelhado.",
+  "orientation": "portrait-primary"
+}

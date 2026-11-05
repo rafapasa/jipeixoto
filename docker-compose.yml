@@ -1,0 +1,10 @@
+services:
+  liso:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: jipeixoto-liso:latest
+    container_name: jipeixoto-liso
+    ports:
+      - "8084:8084"
+    restart: unless-stopped
